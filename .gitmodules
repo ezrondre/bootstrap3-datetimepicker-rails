@@ -1,3 +1,4 @@
 [submodule "bootstrap-datetimepicker"]
 	path = bootstrap-datetimepicker
 	url = https://github.com/Eonasdan/bootstrap-datetimepicker.git
+	branch  = bs4a6
